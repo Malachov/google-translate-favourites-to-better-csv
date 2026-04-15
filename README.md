@@ -24,6 +24,6 @@ Main reason for this is for learning the vocabulary. It can be used for example 
 
 Then it can look like this...
 
-![image](lexilize.png)
+<img src="lexilize.png" alt="Lexilize screenshot" width="250" />
 
 Feel free to contribute...
